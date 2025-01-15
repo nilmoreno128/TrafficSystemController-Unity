@@ -1,7 +1,7 @@
 # Traffic System Controller for Unity  
 
 ![TrafficSystem Example](Media/GIF1%20-%20README.gif)  
-*An example of the Traffic System.*
+*An example.*
 
 A Unity solution for simulating basic traffic behavior using waypoints. This system is designed for simplicity, making it ideal for quick prototypes or basic traffic implementations.
 
